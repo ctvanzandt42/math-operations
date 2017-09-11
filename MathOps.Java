@@ -19,6 +19,6 @@ public class MathOps {
         System.out.println(num1 + " minus " + num2 + " equals " + (num1-num2));
         System.out.println(num1 + " multiplied by " + num2 + " equals " + (num1*num2));
         System.out.println(num1 + " divided by " + num2 + " equals " + (num1/num2));
-        System.out.println("The modulus of " + num1 + " and " + num2 + " is " + (num1%num2) + " THEY CALL IT THE REMAINDER ITS THE NUMBER THAT REMAINS!!!");
+        System.out.println("The remainder of " + num1 + " and " + num2 + " is " + (num1%num2) + " THEY CALL IT THE REMAINDER ITS THE NUMBER THAT REMAINS!!!");
     }
 }
